@@ -8,5 +8,5 @@ roslaunch kaqi_driver robot_base.launch
 
 ### Launch dashboard
 ```
-roslaunch kaqi_driver kaqi_dashboard
+rosrun kaqi_driver kaqi_dashboard
 ```
